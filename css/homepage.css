@@ -1,0 +1,43 @@
+/*navigation bar  */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+/*body */
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ h1 {
+    text-align: center;
+    padding-top:100px;
+ }
+ 
+div{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding-top:30px ;
+    color:black;
+
+}
